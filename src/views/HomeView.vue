@@ -6,21 +6,21 @@ export default {
       spaceXApiData: null,
       integrantes: [
         {
-          name: 'Kutalek, Nicolás Fracisco',
-          LU: '6533'
+          name: 'Campestrini, Pablo',
+          LU: '7114'
         },
         {
-          name: 'Kutalek, Nicolás Fracisco',
-          LU: '6533'
+          name: 'Kachuk, Carlos',
+          LU: '8971'
         },
         {
-          name: 'Kutalek, Nicolás Fracisco',
+          name: 'Kutalek, Nicolás',
           LU: '6533'
         }
       ],
       profesores: [
         {
-          name: 'Gerzell, Stella',
+          name: 'Gerzel, Stella',
         },
         {
           name: 'Nuñez, Francisco',
